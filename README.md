@@ -39,10 +39,10 @@ There are many GUID tools. Most fall into one of these categories:
 
 | Tool | What it does | Limitations |
 |----|----|----|
-| **GUIDsGenerator.com** | **Real GUIDs, online, instantly** | None 😌 |
-| **CuteUID** | Generates “cute” IDs | Fun, but **not production GUIDs** |
-| **Vanity-UUID** | CLI vanity UUIDs | Requires install, slow, niche |
-| **MiniGUID** | Shortened GUIDs | Non-standard, ecosystem-specific |
+| **[GUIDsGenerator.com](https://www.guidsgenerator.com/)** | **Real GUIDs, online, instantly** | None 😌 |
+| **[CuteUID](https://github.com/alexdredmon/cuteuid)** | Generates “cute” IDs | Fun, but **not production GUIDs** |
+| **[Vanity-UUID](https://github.com/operator-name/vanity-uuid)** | CLI vanity UUIDs | Requires install, slow, niche |
+| **[MiniGUID](https://github.com/jasonholloway/miniguid)** | Shortened GUIDs | Non-standard, ecosystem-specific |
 
 GUIDsGenerator.com focuses on **standards, speed and usability** — not novelty formats that break compatibility.
 
